@@ -8,7 +8,7 @@ I am...
 ## ↝ I use...
 - ✏️ &nbsp; [Visual Studio Code](https://code.visualstudio.com) for programming
 - 🌐 &nbsp; [Brave](https://brave.com) for web browsing
-- 🐧 &nbsp; [EndeavourOS](https://windows.com/) as my operating system.
+- 🖥 &nbsp; [Windows](https://windows.com/) as my operating system.
 
 ## ↝ Skills
 - 👨‍💻 &nbsp; JavaScript, HTML, CSS
