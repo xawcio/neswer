@@ -3,7 +3,7 @@ Welcome on my GitHub profile!
 
 ## ↝ About Me
 I am...
-- 🇵🇱 / 🇧🇪 &nbsp; from Poland but life in Belgium :>
+- 🇵🇱 / 🇧🇪 &nbsp;from Poland but life in Belgium :>
 
 ## ↝ I use...
 - ✏️ &nbsp; [Visual Studio Code](https://code.visualstudio.com) for programming
@@ -17,5 +17,5 @@ I am...
 ## ↝ Contact
 - 📧 &nbsp; Mail: [notneswer@gmail.com](mailto:notneswer@gmail.com)
 - 💬 &nbsp; Discord: [neswer#3063](https://discord.com/app)
-- 🐦 &nbsp; Twitter: [@Bneswero](https://twitter.com/neswero)
+- 🐦 &nbsp; Twitter: [@neswero](https://twitter.com/neswero)
 - 📷 &nbsp; Instagram: [@neswerrr](https://instagram.com/neswerrr)
